@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/olivergierke/spring-restbucks.png?branch=master)](https://travis-ci.org/olivergierke/spring-restbucks)
 
-This project is a sample implementation of the Restbucks application described in the book [REST in Practice](http://shop.oreilly.com/product/9780596805838.do) by Jim Webber, Savas Parastatidis and Ian Robinson. It's a showcase for bringing different Spring eco-system technologies together to implement a REST web service. The application uses [HAL](http://stateless.co/hal_specification.html) as the primary representation format.
+This project is a sample implementation of the Restbucks application described in the book [REST in Practice](http://bit.ly/2wvyjbs) by Jim Webber, Savas Parastatidis and Ian Robinson. It's a showcase for bringing different Spring eco-system technologies together to implement a REST web service. The application uses [HAL](http://stateless.co/hal_specification.html) as the primary representation format.
 
 ## Quickstart
 
